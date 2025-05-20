@@ -1,0 +1,24 @@
+{
+    "bank1": {
+        "Alice": {
+            "password": "qwert",
+            "balance": 10000
+        },
+
+        "!Hacker": {
+            "password": "12345",
+            "balance": 0
+        }
+    },
+    "bank2": {
+        "Bob": {
+            "password": "12345",
+            "balance": 5000
+        },
+
+        "!Hacker": {
+            "password": "qwert",
+            "balance": 0
+        }
+    }
+}
